@@ -5,3 +5,6 @@ langchainhub
 langchain_groq
 langchain_huggingface
 sentence_transformers
+bs4
+tiktoken
+chromadb
